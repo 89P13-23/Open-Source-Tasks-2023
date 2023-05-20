@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Ishan Chandra Gupta"<<endl;
-    cout<<"220107045"<<endl;
+    cout<<"Malabh Bakshi"<<endl;
+    cout<<"220104054"<<endl;
     return 0;
 }
